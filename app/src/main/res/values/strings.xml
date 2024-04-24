@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card UI Practice</string>
+    <string name="social_media">"@"someguy</string>
+    <string name="phone">+1-123-867-5309</string>
+    <string name="email">anon@nowhere.com</string>
+    <string name="name">John Doe</string>
+    <string name="title">Android Developer</string>
 </resources>
